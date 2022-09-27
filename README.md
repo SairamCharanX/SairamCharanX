@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SairamCharanX
 - 👀 I’m interested in Product Design
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Java
 - mail: sairam.v99@gmail.com
 
 <!---
